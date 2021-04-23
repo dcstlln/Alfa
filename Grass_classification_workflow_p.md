@@ -178,7 +178,7 @@ The color rules applied can be seen here: [PaletaUrbanaRASTER](https://github.co
 #### Perform supervised object-based classification (using 2 classes with training points)
 Grouping the working data.
 ```
-ListaClasif2=`g.list rast pattern='L8_ctf*,*SAVIc*,*NDBIc*,idl,asm' sep=comma`
+ListaClasif2=`g.list rast pattern='L8_ctf*,Pancro,*SAVIc*,*NDBIc*,idl,asm' sep=comma`
 i.group group=L8o2 subgroup=L8o2 input=$ListaClasif2 
 ```
 Generating region for algorithms and seeds for speed up classification process. Determining optimal classification parameters with USPO.
