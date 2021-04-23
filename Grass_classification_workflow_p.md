@@ -77,7 +77,7 @@ r.mask Mascara
 ```
 ->The output maps for this code block are: 
 
-|Initial cloud mask                                           | Final work mask                                            | 
+|Initial cloud mask (MascaraNubes)                           | Final work mask (Mascara)                                             | 
 |-------------------------------------------------------------|------------------------------------------------------------|
 |![initial mask=_MascaraNubes_](https://github.com/dcstlln/Alfa/blob/RGrass/masknubes.jpg)| ![final mask=_Mascara_](https://github.com/dcstlln/Alfa/blob/RGrass/mask.jpg)|
 
